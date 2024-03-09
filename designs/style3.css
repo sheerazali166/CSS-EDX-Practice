@@ -1,0 +1,33 @@
+
+div {
+
+    padding: 50px;
+}
+
+/*This design is based on pastel primary colors and uses color as a highlight
+ against the default white background*/
+ #design3 {
+
+    color: #DF744A;
+    font-family: Arial, sans-serif;
+
+ }
+
+ #design3 h1 {
+
+    background-color: #BFD8D2;
+    text-align: center;
+    font-size: 4em;
+    font-weight: 100;
+    padding: 30px;
+    border-bottom: 5px #DCB239 solid;
+    font-family: Helvetica, sans-serif;
+
+ }
+    
+ #design3 p {
+
+    background-color: #FEDCD2;
+    padding: 50px;
+ 
+}
