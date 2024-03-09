@@ -1,0 +1,70 @@
+
+div {
+
+    margin-bottom: 50px;
+    height: 400px;
+}
+
+form {
+
+    padding: 30px;
+    width: 500px;
+}
+
+/* DESIGN 3 */
+#form3 {
+
+    background-color: #CAEBF2;
+    font-family: 'Century Gothic';
+}
+
+#box {
+
+    background-color: white;
+    border-radius: 2px;
+    margin: 50px;
+    text-align: center;
+    width: 500px;
+
+}
+
+#form3 h1 {
+
+    color: #FF3B3F;
+    text-align: center;
+    margin: 0px;
+}
+
+#form3 input {
+
+    border: 0px;
+    border-bottom: 1px #A9A9A9 dashed;
+    padding: 10px;
+    color: #A9A9A9;
+    width: 80%;
+    margin: 10px;
+    font-family: 'Century Gothic';
+
+}
+
+#form3 input:focus, #form3 input:hover  {
+
+    border: 1px #FF3B3F solid;
+
+}
+
+#form3 button {
+
+    background-color: #FF3B3F;
+    border: 0px;
+    border-radius: 2px;
+    color: white;
+    font-size: 0.9em;
+    padding: 10px 20px;
+    margin: 20px;
+    width: 85%;
+    font-family: 'Century Gothic';
+
+}
+
+

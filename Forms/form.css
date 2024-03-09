@@ -1,0 +1,25 @@
+
+div {
+
+    margin-bottom: 50px;
+    height: 400px;
+}
+
+form {
+
+    padding: 30px;
+    width: 500px;
+}
+
+/* Bad Design */
+#uglyForm input {
+
+    border: 0px;
+}
+
+#uglyForm button {
+
+    background-color: white;
+    border: 0px;
+}
+

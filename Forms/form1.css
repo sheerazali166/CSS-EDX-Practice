@@ -1,0 +1,56 @@
+
+div {
+
+    margin-bottom: 50px;
+    height: 400px;
+}
+
+form {
+
+    padding: 30px;
+    width: 500px;
+
+}
+
+/* DESIGN 1 */
+#form1 {
+
+    background-color: #5E0231;
+    font-family: Arial;
+    color: #DBC3D0;
+}
+
+#form h1 {
+
+    color: white;
+    margin: 0px 0px 20px 0px;
+
+}
+
+#form1 input {
+
+    background-color: #DBC3D0;
+    border: 2px white solid;
+    padding: 10px;
+    margin-bottom: 15px;
+}
+
+#form1 button {
+
+    background-color: white;
+    border: 3px #DBC3D0  solid;
+    border-radius: 5px;
+    color: #5E0231;
+    padding: 10px 30px;
+    font-size: 1.2em;
+
+}
+
+#form1 button:hover {
+
+    background-color: #DBC3D0;
+    color: white;
+}
+
+
+
