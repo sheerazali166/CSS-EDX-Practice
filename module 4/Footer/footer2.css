@@ -1,0 +1,53 @@
+
+div {
+
+    font-family: Arial;
+}
+
+#footer2 {
+
+    background-color: #0E0B16;
+    color: #FFFFFF;
+    height: 350px;
+    margin-bottom: 50px;
+
+}
+
+#footer2 section {
+
+    width: 85%;
+    margin-left: auto;
+    margin-right: auto;
+    padding-bottom: 30px;
+
+}
+
+#footer2 footer {
+
+    width: 75%;
+    margin-left: auto;
+    margin-right: auto;
+    color: #FFFFFF;
+    border-top: 1px #A239CA solid;
+
+}
+
+#footer2 ul {
+
+    float: left;
+    width: 30%;
+    list-style: none;
+    padding: 0px;
+}
+
+#footer2 li {
+
+    padding: 5px;
+}
+
+#footer2 .topLevel {
+
+    font-size: 1.2em;
+    font-variant: small-caps;
+}
+

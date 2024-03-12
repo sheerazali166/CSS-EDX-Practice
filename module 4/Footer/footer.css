@@ -1,0 +1,43 @@
+
+div {
+
+    font-family: Arial;
+}
+
+#footer1 {
+
+    background-color: #F4F4F4;
+    height: 150px;
+    margin-bottom: 50px;
+}
+
+#footer1 section {
+
+    height: 60%;
+    color: #373737;
+    width: 85%;
+    left: auto;
+    margin-right: auto;
+}
+
+#footer1 footer {
+
+    background-color: #C0B283;
+    color: #DCD0C0;
+    height: 40%;
+    text-align: center;
+    padding: 15px;
+
+}
+
+#footer1 footer a {
+
+    color: #373737;
+    padding: 5px 20px;
+
+}
+
+#footer footer a:hover {
+
+    color: #F4F4F4;;
+}
